@@ -42,6 +42,16 @@ Lightweight issue tracker with Kanban board — teams create workspaces, organiz
 
 Each project deliberately uses a different architecture and backend stack, giving you exposure to multiple real-world patterns.
 
+## Resources
+
+Guides and references for writing prompts that produce high-quality applications:
+
+| Resource | Description |
+|----------|-------------|
+| [Prompt Writing Guide](resources/prompt-writing-guide.md) | The complete guide — structure, specificity, constraints, iteration, and common pitfalls |
+| [Design Spec Cheatsheet](resources/design-spec-cheatsheet.md) | How to specify colors, fonts, components, and layouts so the output looks designed, not generated |
+| [Prompt Template](resources/prompt-template.md) | Fill-in-the-blank template to start your own project prompt from scratch |
+
 ## License
 
 For educational purposes only.
