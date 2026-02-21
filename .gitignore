@@ -25,6 +25,7 @@ Thumbs.db
 
 # Misc
 *.pdf
+!seminar_resources/*.pdf
 *.tsbuildinfo
 next-env.d.ts
 .prisma/
